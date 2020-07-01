@@ -1,0 +1,10 @@
+{
+  "type": "skoda",
+  "interval": 20,
+  "user": "ad@server",
+  "password": "mdp",
+  "userid": "",
+  "tripType": "shortTerm",
+  "pin": "0000",
+  "reversePos": ""
+}
