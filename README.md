@@ -2,3 +2,5 @@
 
 
 modification de https://github.com/TA2k/ioBroker.vw-connect pour utilisation avec mqtt
+
+devrait foncionner avec VW We Connect, myAudi, Skoda Connect et We Connect Go
